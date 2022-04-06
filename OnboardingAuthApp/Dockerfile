@@ -7,7 +7,7 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 WORKDIR /src
-COPY ["OnboardingAuthApp/OnboardingAuthApp.csproj", "OnboardingAuthApp/"]
+COPY ["./OnboardingAuthApp.csproj", "OnboardingAuthApp/"]
 RUN dotnet restore "OnboardingAuthApp/OnboardingAuthApp.csproj"
 COPY . .
 WORKDIR "/src/OnboardingAuthApp"
