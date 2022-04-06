@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lvyvMD08AvCsa8WpiZOTvK1hc5QIPjdRr6Ev/WF31o/Pvel8Iga4lJNAssddpIcbZTLw99qJtYgOlG8gDHrE8w==",
+  "dgSpecHash": "/ws6+6dDpgyDX+AqO5JOxWZFxUmy+hzbhovoERlE7mpEf7jKN/ECcJeWuRH8K5Z7IiEKZDNO2ELu/ReKusA5Uw==",
   "success": true,
   "projectFilePath": "D:\\Kerja\\Onboarding NET\\OnboardingAuthApp\\OnboardingAuthApp\\OnboardingAuthApp.csproj",
   "expectedPackageFiles": [
@@ -63,6 +63,7 @@
     "C:\\Users\\Win10\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.6.0\\microsoft.identitymodel.tokens.5.6.0.nupkg.sha512",
     "C:\\Users\\Win10\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Win10\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\Win10\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Win10\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Win10\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
